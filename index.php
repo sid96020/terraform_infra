@@ -1,5 +1,1 @@
-<pre>
-<?php
-print `ifconfig`;
-?>
-</pre>
+hi hello
